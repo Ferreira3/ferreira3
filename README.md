@@ -39,9 +39,15 @@ Aqui estão as principais linguagens, frameworks e ferramentas que utilizo nos m
 * 🇪🇸 **Espanhol**: Básico
 
 ---
-![Ferreira3's GitHub Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=ferreira3&langs_count=4&theme=algolia)
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ferreira3/ferreira3/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ferreira3/ferreira3/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ferreira3/ferreira3/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
+
 ### 📫 Vamos nos conectar?
 
 Se você quiser conversar sobre tecnologia, projetos ou oportunidades de trabalho, sinta-se à vontade para entrar em contato:
