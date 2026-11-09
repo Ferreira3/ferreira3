@@ -53,4 +53,4 @@ Aqui estão as principais linguagens, frameworks e ferramentas que utilizo nos m
 Se você quiser conversar sobre tecnologia, projetos ou oportunidades de trabalho, sinta-se à vontade para entrar em contato:
 
 [![LinkedIn](https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square)](https://linkedin.com/in/ferreira3)
-[![E-mail](https://shields.io)](mailto:jeduardoferreira.03@gmail.com)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jeduardoferreira.03@gmail.com)
